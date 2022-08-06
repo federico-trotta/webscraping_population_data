@@ -14,4 +14,4 @@ extraxting the population-for-countries data.
 
 Then, I've stored the scraped data in a CSV file and analyzed them in a Jupyter Notebook.
 
-I've also written an article on Medium on this topic. You can fine it [here](https://medium.com/mlearning-ai/web-scraping-for-data-science-scrape-and-analyze-data-is-fast-and-easy-b5f02c40d2d1)
+I've also written an article on Medium on this topic. You can find it [here](https://medium.com/mlearning-ai/web-scraping-for-data-science-scrape-and-analyze-data-is-fast-and-easy-b5f02c40d2d1)
